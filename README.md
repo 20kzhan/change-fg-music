@@ -32,6 +32,7 @@ decode_content_v2.py content_v2.gdata
 ```
 
 4. **Changing the music!**
+
 Now, double click the file to open it in notepad. Hit `Ctrl+F` to open the search function! Look up the term `"levels_round"` (quote marks included) and you'll be taken to the list of all the round declarations in the game. What all this means isn't important right now, all we care about here is two variables: 
 
 **"ingame_music_soundbank"** and **"ingame_music_event"** (*Shown below!*)
