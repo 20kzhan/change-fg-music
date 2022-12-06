@@ -1,6 +1,6 @@
 # Change Fall Guys Music
 **I DID NOT MAKE THIS, @FGMuffins on twitter did :)**
-This is purely a demo on how github is more convienent :p
+Support them here: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fgmuffins)
 
 # Installation
 
